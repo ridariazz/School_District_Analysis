@@ -16,5 +16,43 @@ Moreover, we had to perform this analysis twice as officials noticed academic di
 
 ## Results 
 
-We started this analysis by setting the ninth graders' scores to NaN. Once the ninth graders' scores are replaced by NaN, we updated the district summary data frame to see what is the overall passing percentage for the entire district now. The Data Frame below in Figure 1 displays the district over all passing percentage to 64.9% as Thomas High School's overall percentage fell to 65%. Adding onto that, our analysis also revealed that Thomas High School is not longer in the top 5. 
+We started this analysis by setting the ninth graders' scores to NaN. Once the ninth graders' scores are replaced by NaN, we updated the district summary data frame to see what is the overall passing percentage for the entire district now. The Data Frame below in Figure 1 displays the district over all passing percentage to 64.9%. In relation to just Thomas High School's overall percentage, it went from 90% to 65% once we removed the ninth graders. Adding onto that, our analysis also revealed that Thomas High School is not longer in the top 5 performing schools. 
+
+*Figure 1: w/ ninth graders' performance data*
+
+<img width="994" alt="Screen Shot 2022-07-13 at 10 33 20 PM" src="https://user-images.githubusercontent.com/106577074/179100953-9885ae92-3008-4498-b89a-7aac1b4ed495.png">
+
+*Figure 2: w/out ninth graders' data = NaN
+
+<img width="585" alt="Screen Shot 2022-07-14 at 3 48 13 PM" src="https://user-images.githubusercontent.com/106577074/179101052-bb21b945-c69e-4046-a337-b0cdf2952383.png">
+
+### Removing Ninth-Graders Scores Effect
+
+- math and reading scores by grade: THS is still passing in their overall percentage -> math: 93.2% & reading: 97.1% & overall percentage: 90.6% 
+
+*Figure 3* 
+
+<img width="746" alt="Screen Shot 2022-07-14 at 4 44 07 PM" src="https://user-images.githubusercontent.com/106577074/179119207-dfd8b778-f8ba-424b-8a6f-812add838130.png">
+
+- scores by school spending: for the spending range of $630-$644, it seems the overall passing percentage decreased by 0.1%
+
+*Figure 4*
+
+<img width="745" alt="Screen Shot 2022-07-14 at 4 43 50 PM" src="https://user-images.githubusercontent.com/106577074/179119237-6589e4c7-63cf-44e0-b056-896683a09f85.png">
+
+- scores by school size: for schools with a large student population, range from 2000-5000, the overall passing percentage was 58%. So the bigger the school population, the less the overall passing percentage.
+
+*Figure 5*
+<img width="753" alt="Screen Shot 2022-07-14 at 4 43 25 PM" src="https://user-images.githubusercontent.com/106577074/179119263-5dbfb9f5-58a9-4501-a88f-bb129885a85c.png">
+
+- scores by school type: Overall, Charter schools did a lot better than District school type by an overall passing percetnage difference of ~44%
+
+*Figure 6*
+
+<img width="778" alt="Screen Shot 2022-07-14 at 4 43 19 PM" src="https://user-images.githubusercontent.com/106577074/179119314-6a634b0c-900d-4bb9-9d83-ee43dfceffa7.png">
+
+## Summary 
+
+
+
 
