@@ -53,6 +53,6 @@ We started this analysis by setting the ninth graders' scores to NaN. Once the n
 
 ## Summary 
 
+Overall, it's difficult to determine how much academic dishonesty was included in our dataset and how it could've skewed our analysis. As we don't know which indiviudal had commited fraud with their test results, we had to remove the entire ninth graders' test scores from our overall analysis. 
 
-
-
+Therefore, when we replaced Thomas High School's ninth graders' scores with NaN in our data frame, the district and Thomas High School themselves had their overall percentages decrease and THS was no longer part of the top 5 performing schools. Moving forward, when we gathered the student count for THS and excluded the ninth graders, THS regained its position as one of the top 5 performing schools and their math/reading scores as well as overall percentage had increased once again. 
