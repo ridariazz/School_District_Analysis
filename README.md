@@ -16,5 +16,5 @@ Moreover, we had to perform this analysis twice as officials noticed academic di
 
 ## Results 
 
-### Thomas High School
+We started this analysis by setting the ninth graders' scores to NaN. Once the ninth graders' scores are replaced by NaN, we updated the district summary data frame to see what is the overall passing percentage for the entire district now. The Data Frame below in Figure 1 displays the district over all passing percentage to 64.9% as Thomas High School's overall percentage fell to 65%. Adding onto that, our analysis also revealed that Thomas High School is not longer in the top 5. 
 
