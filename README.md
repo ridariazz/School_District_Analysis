@@ -43,6 +43,7 @@ We started this analysis by setting the ninth graders' scores to NaN. Once the n
 - scores by school size: for schools with a large student population, range from 2000-5000, the overall passing percentage was 58%. So the bigger the school population, the less the overall passing percentage.
 
 *Figure 5*
+
 <img width="753" alt="Screen Shot 2022-07-14 at 4 43 25 PM" src="https://user-images.githubusercontent.com/106577074/179119263-5dbfb9f5-58a9-4501-a88f-bb129885a85c.png">
 
 - scores by school type: Overall, Charter schools did a lot better than District school type by an overall difference of ~44%. 
