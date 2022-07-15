@@ -22,7 +22,7 @@ We started this analysis by setting the ninth graders' scores to NaN. Once the n
 
 <img width="994" alt="Screen Shot 2022-07-13 at 10 33 20 PM" src="https://user-images.githubusercontent.com/106577074/179100953-9885ae92-3008-4498-b89a-7aac1b4ed495.png">
 
-*Figure 2: w/out ninth graders' data = NaN
+*Figure 2: w/out ninth graders' data = NaN*
 
 <img width="585" alt="Screen Shot 2022-07-14 at 3 48 13 PM" src="https://user-images.githubusercontent.com/106577074/179101052-bb21b945-c69e-4046-a337-b0cdf2952383.png">
 
